@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: ideabrian/300
+  open_authoring: true
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
