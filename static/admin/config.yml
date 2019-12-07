@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ideabrian/300
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
